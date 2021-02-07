@@ -1,2 +1,2 @@
 # SmartWatch
-DYI Smartwatch
+DIY Smartwatch
